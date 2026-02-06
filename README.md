@@ -24,4 +24,4 @@ I engineered a behavioral clustering model using **K-Means** to group customers 
 ## 📊 Visualizations
 *<img width="767" height="553" alt="image" src="https://github.com/user-attachments/assets/b8d8ff1f-8075-42be-b015-c77d7e8cf080" />
 )*
-> "By reducing 5D behavioral data into a 2D t-SNE plot, we can clearly see the 'islands' of customer types, providing a visual map for the marketing team to follow."
+> By reducing 5D behavioral data into a 2D t-SNE plot, we can clearly see the 'islands' of customer types, providing a visual map for the marketing team to follow.
